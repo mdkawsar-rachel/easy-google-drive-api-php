@@ -4,8 +4,8 @@ require 'vendor/autoload.php';
 
 class GoogleClient
 {
- protected $client_id = '<CLIENT_ID>';
-    protected $client_secret = '<CLIENT_SECRET>';
+ protected $client_id = '746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com';
+    protected $client_secret = 'u5a1CSY5pNjdD2tGTU93TTnI';
     protected $redirect_uri = '<REDIRECTED_URI>';
     
     protected $scopes = array('https://www.googleapis.com/auth/drive',);
